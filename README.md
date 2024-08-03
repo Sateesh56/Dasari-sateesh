@@ -75,13 +75,13 @@
     <div class="container">
         <div class="header">
             <img src="https://via.placeholder.com/150" alt="Profile Picture">
-            <h1>John Doe</h1>
+            <h1>Dasari sateesh</h1>
             <p>Senior Software Engineer</p>
         </div>
 
         <div class="section">
             <h2>About Me</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vitae urna at justo fermentum tristique. Duis nec tincidunt libero, non tempus ligula.</p>
+            <p>My name is Dasari sateesh i am working in Tech software company as a senior software engineer.</p>
         </div>
 
         <div class="section skills">
@@ -110,7 +110,7 @@
         <div class="section">
             <h2>Contact</h2>
             <ul class="contact-info">
-                <li>Email: <a href="mailto:john.doe@example.com">john.doe@example.com</a></li>
+                <li>Email: <a href="mailto:dasarisateesh56@gmail.com">john.doe@example.com</a></li>
                 <li>LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">linkedin.com/in/johndoe</a></li>
                 <li>GitHub: <a href="https://github.com/johndoe" target="_blank">github.com/johndoe</a></li>
             </ul>
